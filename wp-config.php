@@ -18,18 +18,18 @@
  * @package WordPress
  */
 
-define( 'WP_HOME', 'http://localhost:8001/wp' );
-define( 'WP_SITEURL', 'http://localhost:8001/wp' );
+define( 'WP_HOME', 'http://116.193.190.117:8000/wp' );
+define( 'WP_SITEURL', 'http://116.193.190.117:8000/wp' );
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'gonam2020' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'gonam2020' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '906' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
